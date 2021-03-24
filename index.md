@@ -142,7 +142,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andrew J. Stephen
 1. Andrew McDermott
 1. Andrew Pinski (GCC contributor)
-1. Andrew Stewart (@stewart)
 1. Andrija Subotić
 1. Andy "@grifferz" Smith (both personally and on behalf of BitFolk Ltd)
 1. Andy Brody (FSF associate member)
@@ -183,11 +182,9 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Asta Halkjær From
 1. Asumu Takikawa
 1. Attila Pinter (aka adathor, openSUSE docs, support, OpenStorage.io CTO)
-1. Attila Szegedi
 1. Aubrey Fletcher
 1. Aura Vulcano
 1. Avery "stars" M-W
-1. Avital Kelman
 1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
 1. Baptiste Fontaine
 1. Barret Rennie (Mozilla)
@@ -304,6 +301,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Koerner (Wikimedia, WordPress)
 1. Chris Riley
 1. Chris Rose
+1. Chris Sienkiewicz
 1. Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
 1. Chrissy LeMaire (@cl - dbatools creator)
 1. Christian Brauner (Linux Kernel Hacker, LXC maintainer)
@@ -330,7 +328,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christopher `kode54` Snowhill
 1. Christopher Patti
 1. Christopher Schmidt
-1. Christoph Wickert (openSUSE contributor, former Fedora Council and Advisory Board member)
 1. Chris Wayne (Ubuntu)
 1. Clara Hobbs
 1. Clare Macrae
@@ -1463,7 +1460,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Youko Omori (Collabora)
 1. Youngbin Han (Ubuntu Korea Community)
 1. Young Hun Kim
-1. Yo Yehudi (Co-founder of Open Life Science)
 1. Yuval Adam
 1. Yuvi Panda (Project Jupyter)
 1. Yu-Wei Wu
